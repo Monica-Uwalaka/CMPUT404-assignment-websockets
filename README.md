@@ -19,6 +19,11 @@ pip install -r requirements.txt
 
 Contributors / Licensing
 ========================
+Monica Uwalaka
+
+Justin Mah
+
+Jason Robock 
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
